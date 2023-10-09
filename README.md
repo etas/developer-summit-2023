@@ -5,17 +5,17 @@
 
 # ETAS Developer Summit 2023 on September 28
 
-## What you can expect
-- Get a holistic view on modern software development
-- Gain new insights and knowledge about developing software and products
-- Dive into the spirit of collaboration within the automotive software industry
-- Meet the Open Source Communities [Eclipse Foundation](https://www.linkedin.com/company/eclipse-foundation/), [COVESA](https://www.linkedin.com/company/covesa-alliance/) and [SOAFEE](https://www.linkedin.com/company/soafee/) and dig deeper into OSS projects
-- Dig deeper in specified topics with experts from ETAS as well as from the Open Source Community and our partners
-- Meet like-minded people and expand your network
-- Joint coding sessions & calibration challenges
-- And last but not least: good food, fun, networking and collaboration
+Thank you for having visited the [ETAS](https://www.etas.com/) Developer Summit 2023.
 
-### The following topics await you at our DevOps Cycle:
+We hope you had a great time digging deeper in specified topics with experts from ETAS as well as from the Open Source Community and our partners
+
+Met the Open Source Communities from [Eclipse Foundation](https://www.linkedin.com/company/eclipse-foundation/), [COVESA](https://www.linkedin.com/company/covesa-alliance/) and [SOAFEE](https://www.linkedin.com/company/soafee/).
+
+And had an overall enjoyable event with networking and collaboration.
+
+### To recap what was on offer during the event:
+
+#### Topics shown at our DevOps Cycle:
 
 - Function validation with field data. Shadow Mode. Getting Real-World Data.
 - Interactive Measurement and Calibration with µP based VCU (new INCA use case). Measure variables with INCA in an AUTOSAR Adaptive environment.
@@ -28,7 +28,7 @@
 - Extensions for virtual testing: Hands-on prototypes that introduce new extensions for our virtual testing environment. Experts can discuss them and contribute their ideas and suggestions.
 - Help us design products that meet your future needs!
 
-### In our Summit Lab you can get active, we have prepared some challenges for you:
+#### Interactive Labs:
 
 - Capture the Flag - Can you Hack This? Hands on Introduction to CyberSecurity
 - Develop a vehicle app in less than 10 minutes with the frame work "Velocitas“
@@ -37,7 +37,7 @@
 - AOS Forensic UseCase
 - digital.auto: software-defined vehicle hack challenge
 
-### Discuss hot topics with our experts on site:
+#### Experts on site:
 
 - COVESA Vehicle Signal Specification (VSS / VSC) enabling interoperability - [Christoph Ludewig (Geotab GmbH)](https://www.linkedin.com/in/christophludewig/)
 - Certified Rust Compiler - [Florian Gilcher (Ferrous Systems GmbH)](https://www.linkedin.com/in/floriangilcher/)
@@ -50,4 +50,16 @@
 - Safe Linux - [Philipp Ahmann, Robert Bosch GmbH & Chair ELISA Working Groups Linux Foundation](https://www.linkedin.com/in/philipp-ahmann/)
 - Cryptography on CAN – [Ken Tindell (JK Energy Ltd.)](https://www.linkedin.com/in/kentindell/)
 
-# Don't miss the event
+# What is next!
+
+At the summit you had the chance to win an ESP32 Development Board.
+
+This particular board was used in one of the showcases called SDV2Go as a remote control.
+
+Around exactly this Development Board we will now post various  challenges over the following month to bring some of the ETAS topics close to you.
+
+We hope you will take the chance and opportunity to engage with us on these challenges.
+
+Watch this repository and follow us on <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Linkedin_circle.svg" width="15" height="15"/> [LinkedIn](https://www.linkedin.com/company/etas/) to find out when a challenge is being posted.
+
+Happy Coding! **#FromCodeToTheRoad**
